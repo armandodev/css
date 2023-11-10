@@ -24,4 +24,4 @@ This is a simple hello world project with CSS and HTML.
 
 ## Solution
 
-[Folder](./)
+[At the root of this project](./)

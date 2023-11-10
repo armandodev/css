@@ -20,4 +20,4 @@ This is a simple portfolio project with CSS and HTML.
 
 ## Solution
 
-[Folder](./)
+[At the root of this project](./)
