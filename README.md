@@ -16,6 +16,13 @@ The "projects" directory contains individual web development projects, each iden
 
 Feel free to explore each project to delve into specific aspects of web design and development.
 
+## Projects
+
+The following is a list of projects in this repository:
+
+- [00-hello-world](projects/00-hello-world/README.md). This is a simple hello world project with CSS and HTML.
+- [01-portfolio](projects/01-portfolio/README.md). This is a simple portfolio project with CSS and HTML.
+
 ## Feedback & Contributions
 
 Your feedback is essential! If you encounter issues, have questions, have contributions or suggestions of projects, or want to discuss anything related to the projects, please contact me at [jorge.armando.c.cardenas@gmail.com](mailto:jorge.armando.c.cardenas@gmail.com). Let's learn and improve together!

@@ -21,3 +21,39 @@ This is a simple hello world project with CSS and HTML.
 - Add a style tag on the header of the HTML file and add the style `color: blue;` to the paragraph tag.
 - Link the CSS file to the HTML file.
 - Add the style `color: green;` to the link tag in the CSS file.
+
+## Solution
+
+[HTML](index.html) | [CSS](styles.css)
+
+### Code
+
+#### HTML
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Hello World</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <style>
+      p {
+        color: blue;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 style="color: red;">Hello World</h1>
+    <p>This is my first CSS project!</p>
+    <a href="#">Hello</a>
+  </body>
+</html>
+```
+
+#### CSS
+
+```css
+a {
+  color: green;
+}
+```
