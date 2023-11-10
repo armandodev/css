@@ -16,37 +16,9 @@ The "projects" directory contains individual web development projects, each iden
 
 Feel free to explore each project to delve into specific aspects of web design and development.
 
-## Getting Started
+## Feedback & Contributions
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/css.git
-   cd css
-   ```
-
-2. **Navigate to the Projects:**
-   ```bash
-   cd projects
-   ```
-
-3. **Explore the Projects:**
-   Each project is contained within its own directory. Dive into a project by navigating to its directory.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions, corrections, or new project ideas, feel free to:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-suggestion`.
-3. Make your changes and commit them: `git commit -m 'Add your changes'`.
-4. Push to the branch: `git push origin feature-suggestion`.
-5. Submit a pull request to the "contributions" branch.
-
-Please ensure your pull request is directed towards the "contributions" branch.
-
-## Feedback
-
-Your feedback is essential! If you encounter issues, have questions, or want to discuss anything related to the projects, please contact me at [jorge.armando.c.cardenas@gmail.com](mailto:jorge.armando.c.cardenas@gmail.com). Let's learn and improve together!
+Your feedback is essential! If you encounter issues, have questions, have contributions or suggestions of projects, or want to discuss anything related to the projects, please contact me at [jorge.armando.c.cardenas@gmail.com](mailto:jorge.armando.c.cardenas@gmail.com). Let's learn and improve together!
 
 ## License
 
