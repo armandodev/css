@@ -24,36 +24,4 @@ This is a simple hello world project with CSS and HTML.
 
 ## Solution
 
-[HTML](index.html) | [CSS](styles.css)
-
-### Code
-
-#### HTML
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>Hello World</title>
-    <link rel="stylesheet" href="./styles.css" />
-    <style>
-      p {
-        color: blue;
-      }
-    </style>
-  </head>
-  <body>
-    <h1 style="color: red;">Hello World</h1>
-    <p>This is my first CSS project!</p>
-    <a href="#">Hello</a>
-  </body>
-</html>
-```
-
-#### CSS
-
-```css
-a {
-  color: green;
-}
-```
+[Folder](./)
