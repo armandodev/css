@@ -28,77 +28,77 @@
     <link rel="alternate" href="/en" hreflang="en" />
     <link rel="canonical" href="/" />
     <link rel="shortcut icon" href="favicon.svg" type="image/x-icon" />
+
+    <link rel="stylesheet" href="./css/styles.css" />
   </head>
   <body>
-    <header>
-      <h1>Portfolio de @armandodev</h1>
+    <header id="top-header">
+      <div class="content-wrapper">
+        <h1 class="th-title">@armandodev</h1>
 
-      <nav>
-        <a href="#experience">Experiencia</a>
-        <a href="#projects">Proyectos</a>
-      </nav>
+        <nav class="th-nav">
+          <ul class="th-nav-list">
+            <li class="th-nav-list-item">
+              <a class="th-nav-list-item-link" href="#experience"
+                >Experiencia</a
+              >
+            </li>
+            <li class="th-nav-list-item">
+              <a class="th-nav-list-item-link" href="#stack">Stack</a>
+            </li>
+            <li class="th-nav-list-item">
+              <a class="th-nav-list-item-link" href="#about">Sobre mí</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
     </header>
 
-    <dialog id="dialog">
-      <h2>Información adicional</h2>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
-        voluptatum, voluptate, quibusdam, quia voluptas quos dolorum
-        exercitationem quod voluptatibus quas quidem. Quisquam voluptatum,
-        voluptate, quibusdam, quia voluptas quos dolorum exercitationem quod
-        voluptatibus quas quidem.
-      </p>
-      <button id="hide">Cerrar</button>
-    </dialog>
+    <main id="main">
+      <div class="content-wrapper">
+        <section class="main-section" id="experience">
+          <h2 class="subtitle">Experiencia</h2>
+          <p class="paragraph">
+            +3 años de experiencia como "<strong
+              >desarrollador web full stack</strong
+            >".
+          </p>
+          <ul class="experience-list">
+            <li class="experience-list-item">Google - 2022</li>
+            <li class="experience-list-item">Facebook - 2021</li>
+            <li class="experience-list-item">Microsoft - 2020</li>
+          </ul>
+        </section>
 
-    <button id="show">Ver más información</button>
+        <section class="main-section" id="stack">
+          <h2 class="subtitle">Mis tecnologías favoritas</h2>
 
-    <script>
-      window.show.addEventListener("click", () => {
-        window.dialog.showModal();
-      });
+          <ol class="stack-list">
+            <li class="stack-list-item">HTML</li>
+            <li class="stack-list-item">CSS</li>
+            <li class="stack-list-item">JavaScript</li>
+            <li class="stack-list-item">Node.js</li>
+          </ol>
+        </section>
 
-      window.hide.addEventListener("click", () => {
-        window.dialog.close();
-      });
-    </script>
-
-    <main>
-      <p>
-        +3 años de experiencia como "<strong
-          >desarrollador web full stack</strong
-        >".
-      </p>
-      <h2 id="experience">Experiencia</h2>
-      <ul>
-        <li>Google - 2022</li>
-        <li>Facebook - 2021</li>
-        <li>Microsoft - 2020</li>
-      </ul>
-
-      <a download href="./img/armandodev.jpg">
-        <img
-          src="./img/armandodev.jpg"
-          alt="Image of armandodev"
-          width="200"
-          height="200"
-        />
-      </a>
-      
-      <section>
-        <h3>Mis tecnologías favoritas</h3>
-
-        <ol>
-          <li>HTML</li>
-          <li>CSS</li>
-          <li>JavaScript</li>
-          <li>Node.js</li>
-        </ol>
-      </section>
+        <section class="main-section" id="about">
+          <article id="about-info-wrapper">
+            <h2 class="subtitle">Sobre mí</h2>
+            <p class="paragraph">
+              Soy un desarrollador web full stack, mi nombre es Jorge Armando
+              Ceras Cárdenas y me encanta aprender nuevas cosas y enseñar a
+              otros lo que sé.
+            </p>
+          </article>
+          <img class="about-image" src="./img/armandodev.jpg" alt="Image of armandodev" />
+        </section>
+      </div>
     </main>
 
-    <footer>
-      <p>&copy; Todos los derechos reservados | @armandodev</p>
+    <footer id="bottom-footer">
+      <p class="bf-paragraph">
+        &copy; Todos los derechos reservados | @armandodev
+      </p>
     </footer>
   </body>
 </html>
