@@ -6,5 +6,5 @@ This is the folder for all the versions of the portfolio project. Each version i
 
 ## Versions
 
-- [Version 1](./v1)
-- [Version 2](./v2)
+- [Version 1](./v1/README.md)
+- [Version 2](./v2/README.md)
