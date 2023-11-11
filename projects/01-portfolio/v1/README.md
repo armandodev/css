@@ -34,7 +34,7 @@ This is a simple portfolio project with CSS and HTML.
   - [CSS Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
   - [CSS Box Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
   - [CSS Box Sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
-- Style your project using the CSS topics mentioned above, you have a list of references in the [Resources](./../../README.md#resources) section.
+- Style your project using the CSS topics mentioned above, you have a list of references in the [Resources](https://github.com/ArmandoDev/css/tree/main#references) section.
 
 ## My Code
 
