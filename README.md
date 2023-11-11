@@ -15,7 +15,7 @@ The following is a list of resources recommended for learning and practicing CSS
 **References**
 ---
 - [CSS Reference](https://cssreference.io/). This is a free reference in English that covers all of CSS.
-- [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference). This is a free reference in English that covers all of CSS.
+- [CSS Reference MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference). This is a free reference in English that covers all of CSS.
 ---
 **Practice**
 ---
